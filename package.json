@@ -1,0 +1,13 @@
+{
+  "name": "Realtime-ChatIO_SocketIO_Node_Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "socket.io": "^2.2.0"
+  }
+}
